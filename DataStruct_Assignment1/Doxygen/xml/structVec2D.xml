@@ -1,0 +1,102 @@
+<?xml version='1.0' encoding='UTF-8' standalone='no'?>
+<doxygen xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="compound.xsd" version="1.8.10">
+  <compounddef id="structVec2D" kind="struct" language="C++" prot="public">
+    <compoundname>Vec2D</compoundname>
+    <includes refid="Vec2D_8h" local="no">Vec2D.h</includes>
+      <sectiondef kind="public-attrib">
+      <memberdef kind="variable" id="structVec2D_1a9a4542122d7f2bd28dcd529c9a62edd0" prot="public" static="no" mutable="no">
+        <type>double</type>
+        <definition>double Vec2D::x</definition>
+        <argsstring></argsstring>
+        <name>x</name>
+        <briefdescription>
+<para>x value </para>        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Assignment01/Vec2D.h" line="23" column="1" bodyfile="Assignment01/Vec2D.h" bodystart="23" bodyend="-1"/>
+        <referencedby refid="structVec2D_1a2f6e1ab2c1fbeed0d2b9eb4dff2cfb66" compoundref="Vec2D_8cpp" startline="25" endline="29">Vec2D</referencedby>
+      </memberdef>
+      <memberdef kind="variable" id="structVec2D_1ace79aa38b9f696905862d607f338b845" prot="public" static="no" mutable="no">
+        <type>double</type>
+        <definition>double Vec2D::y</definition>
+        <argsstring></argsstring>
+        <name>y</name>
+        <briefdescription>
+<para>y value </para>        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Assignment01/Vec2D.h" line="24" column="1" bodyfile="Assignment01/Vec2D.h" bodystart="24" bodyend="-1"/>
+        <referencedby refid="structVec2D_1a2f6e1ab2c1fbeed0d2b9eb4dff2cfb66" compoundref="Vec2D_8cpp" startline="25" endline="29">Vec2D</referencedby>
+      </memberdef>
+      </sectiondef>
+      <sectiondef kind="public-func">
+      <memberdef kind="function" id="structVec2D_1a2f6e1ab2c1fbeed0d2b9eb4dff2cfb66" prot="public" static="no" const="no" explicit="no" inline="no" virt="non-virtual">
+        <type></type>
+        <definition>Vec2D::Vec2D</definition>
+        <argsstring>(double x=0, double y=0)</argsstring>
+        <name>Vec2D</name>
+        <param>
+          <type>double</type>
+          <declname>x</declname>
+          <defval>0</defval>
+        </param>
+        <param>
+          <type>double</type>
+          <declname>y</declname>
+          <defval>0</defval>
+        </param>
+        <briefdescription>
+<para>Default Constructor. </para>        </briefdescription>
+        <detaileddescription>
+<para><ref refid="structVec2D" kindref="compound">Vec2D</ref> default constructor.</para><para><parameterlist kind="param"><parameteritem>
+<parameternamelist>
+<parametername>x</parametername>
+</parameternamelist>
+<parameterdescription>
+<para>x value.</para></parameterdescription>
+</parameteritem>
+<parameteritem>
+<parameternamelist>
+<parametername>y</parametername>
+</parameternamelist>
+<parameterdescription>
+<para>y value. </para></parameterdescription>
+</parameteritem>
+</parameterlist>
+</para>        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Assignment01/Vec2D.h" line="25" column="1" bodyfile="Assignment01/Vec2D.cpp" bodystart="25" bodyend="29"/>
+        <references refid="structVec2D_1a9a4542122d7f2bd28dcd529c9a62edd0" compoundref="Vec2D_8h" startline="23">x</references>
+        <references refid="structVec2D_1ace79aa38b9f696905862d607f338b845" compoundref="Vec2D_8h" startline="24">y</references>
+      </memberdef>
+      </sectiondef>
+    <briefdescription>
+<para>A struct to hold a 2D vector. </para>    </briefdescription>
+    <detaileddescription>
+<para>struct <ref refid="structVec2D" kindref="compound">Vec2D</ref> </para>    </detaileddescription>
+    <collaborationgraph>
+      <node id="83">
+        <label>double</label>
+      </node>
+      <node id="82">
+        <label>Vec2D</label>
+        <link refid="structVec2D"/>
+        <childnode refid="83" relation="usage">
+          <edgelabel>+x</edgelabel>
+          <edgelabel>+y</edgelabel>
+        </childnode>
+      </node>
+    </collaborationgraph>
+    <location file="Assignment01/Vec2D.h" line="22" column="1" bodyfile="Assignment01/Vec2D.h" bodystart="21" bodyend="26"/>
+    <listofallmembers>
+      <member refid="structVec2D_1a2f6e1ab2c1fbeed0d2b9eb4dff2cfb66" prot="public" virt="non-virtual"><scope>Vec2D</scope><name>Vec2D</name></member>
+      <member refid="structVec2D_1a9a4542122d7f2bd28dcd529c9a62edd0" prot="public" virt="non-virtual"><scope>Vec2D</scope><name>x</name></member>
+      <member refid="structVec2D_1ace79aa38b9f696905862d607f338b845" prot="public" virt="non-virtual"><scope>Vec2D</scope><name>y</name></member>
+    </listofallmembers>
+  </compounddef>
+</doxygen>

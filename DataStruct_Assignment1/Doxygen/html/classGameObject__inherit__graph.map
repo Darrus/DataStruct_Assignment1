@@ -1,0 +1,6 @@
+<map id="GameObject" name="GameObject">
+<area shape="rect" id="node2" href="$classDweller.html" title="Contains the character&#39;s Health, Special, Radiation, Stimpak, radaway, outfit, weapon and position..." alt="" coords="5,189,179,516"/>
+<area shape="rect" id="node3" href="$classItem.html" title="An abstract class that holds the item&#39;s durability and passes in the name of the Item to GameObject..." alt="" coords="203,292,333,413"/>
+<area shape="rect" id="node4" href="$classOutfit.html" title="A class that holds the Outfit&#39;s SPECIAL. " alt="" coords="125,564,256,685"/>
+<area shape="rect" id="node5" href="$classWeapon.html" title="A class of base class Item that holds weapon&#39;s attack value. " alt="" coords="280,564,411,685"/>
+</map>

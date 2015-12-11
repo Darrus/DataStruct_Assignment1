@@ -1,0 +1,3 @@
+<map id="Weapon::getAttackDmg" name="Weapon::getAttackDmg">
+<area shape="rect" id="node2" href="$classDweller.html#a7bb025bd8237c76efc510c603334906f" title="Gets damage of dweller from weapon class. returns 1 if no weapon is assigned. " alt="" coords="215,5,369,32"/>
+</map>

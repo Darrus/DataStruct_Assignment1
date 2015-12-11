@@ -1,0 +1,5 @@
+<map id="Item" name="Item">
+<area shape="rect" id="node3" href="$classOutfit.html" title="A class that holds the Outfit&#39;s SPECIAL. " alt="" coords="5,359,136,480"/>
+<area shape="rect" id="node4" href="$classWeapon.html" title="A class of base class Item that holds weapon&#39;s attack value. " alt="" coords="160,359,291,480"/>
+<area shape="rect" id="node2" href="$classGameObject.html" title="An abstract class for holding name of the object and count of object created. " alt="" coords="87,5,209,141"/>
+</map>

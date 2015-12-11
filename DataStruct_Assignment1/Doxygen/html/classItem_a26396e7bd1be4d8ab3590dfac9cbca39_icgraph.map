@@ -1,0 +1,5 @@
+<map id="Item::getDurability" name="Item::getDurability">
+<area shape="rect" id="node2" href="$classDweller.html#a91c47440846b135fe5e3b4aab72a66fb" title="Assign outfit to dweller. " alt="" coords="197,5,338,32"/>
+<area shape="rect" id="node3" href="$classDweller.html#ad2c2e2e45084cb6049e2c36b034ec5df" title="Assign weapon to dweller. " alt="" coords="188,56,347,83"/>
+<area shape="rect" id="node4" href="$classDweller.html#a8db32db156db4cd786c3ee26567b1978" title="Decreases weapon/outfit durability_ value. " alt="" coords="180,107,355,149"/>
+</map>
